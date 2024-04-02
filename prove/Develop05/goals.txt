@@ -1,0 +1,5 @@
+Scripture reading ,   read at least 10 min , 10, 0
+Dance in talent show,   dance on a talent show , 50, 0
+Visit Cuenca,  go on a trip to Cuenca, 30, 0
+Go to therapy,  go to my appointments , 20, 0
+temple visit, visit the temple , 20, 0
